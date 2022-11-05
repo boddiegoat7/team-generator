@@ -27,7 +27,7 @@
 
 - Node index.js
     
-    - running the command in the terminal will begin to generate a list of prompts. Depending on the position you pick you will be prompted with diffrent question to fill in at your desired positon. Once complete the "team.html" file will be created allowing you to see your employess with there id and respective github.
+    - running the command in the terminal will begin to generate a list of prompts. Depending on the position you pick you will be prompted with diffrent question to fill in at your desired positon. Once complete the "generated.html" file will be created allowing you to see your employess with there id and respective github.
 
 - Jest :
       
