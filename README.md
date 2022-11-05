@@ -87,11 +87,17 @@ or
         
 ## VIDEO
 
+Displayed html
+
+![image](https://user-images.githubusercontent.com/107088058/200135493-e18dc657-c40f-4284-a741-c1ce751e55fe.png)
+
 "Jest" test demenstration video:
 
+[jest test of suites.webm](https://user-images.githubusercontent.com/107088058/200135369-4b6f009f-31fb-4707-8e9c-ced98c55b295.webm)
 
 
 Node index.js app usage video:
 
+[running node index.js .webm](https://user-images.githubusercontent.com/107088058/200135372-a4ce9574-687b-4806-b840-0e375e431447.webm)
 
 
