@@ -2,7 +2,7 @@ const Manager = require("../lib/Manager");
 
 test(" Can set office number via constrictor argument", () => {
     const value = 777;
-    const manager = new Manager("Victor", 777, "victorboodie@gmail.com", test);
+    const manager = new Manager("Victor", 777, "victorboodie@gmail.com", value);
     expect(manager.roomLocation).toBe(value);
 });
 
